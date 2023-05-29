@@ -1,0 +1,11 @@
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\Hesap\Hesap\bin\Debug\Hesap.exe.config
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\Hesap\Hesap\bin\Debug\Hesap.exe
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\Hesap\Hesap\bin\Debug\Hesap.pdb
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\Hesap\Hesap\obj\Debug\Hesap.csproj.AssemblyReference.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\Hesap\Hesap\obj\Debug\Hesap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\Hesap\Hesap\obj\Debug\Hesap.Form1.resources
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\Hesap\Hesap\obj\Debug\Hesap.Properties.Resources.resources
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\Hesap\Hesap\obj\Debug\Hesap.csproj.GenerateResource.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\Hesap\Hesap\obj\Debug\Hesap.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\Hesap\Hesap\obj\Debug\Hesap.exe
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\Hesap\Hesap\obj\Debug\Hesap.pdb
